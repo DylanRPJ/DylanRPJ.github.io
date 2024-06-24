@@ -8,6 +8,7 @@
 @charset "UTF-8";
 body {
   margin: 0;
+  background-color: #fae2e4;
 }
 
 .rk-container {
@@ -53,7 +54,7 @@ body {
 }
 
 .rk-header {
-  background-color: #afcfee;
+  background-color: #d4e9fd;
   position: relative;
   z-index: 5;
 }
@@ -1169,7 +1170,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/pkm.jfif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1178,19 +1179,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/cartitas.jfif");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/Mine.jfif");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/Eeveelutions.jfif");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/yugi\ yami.jfif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1199,7 +1200,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/casita.jfif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1208,31 +1209,31 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/negrote.jfif");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/mago\ negro.jfif");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
+  background-image: url("../img/enojado.jfif");
 }
 
 .item-10 {
-  background-image: url("../img/project-10.jpg");
+  background-image: url("../img/amikos.jfif");
 }
 
 .item-11 {
-  background-image: url("../img/project-11.jpg");
+  background-image: url("../img/enemigo.jfif");
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/Minecraft.jfif");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/necesito\ esto.jfif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -1244,11 +1245,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/project-14.jpg");
+  background-image: url("../img/duelo.jfif");
 }
 
 .item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/repielo.jfif");
 }
 
 @media (min-width: 40em) {
@@ -1353,15 +1354,56 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/metaP.jfif");
   background-position: 50% 100%;
   background-size: 350%;
 }
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
-  .item-inside-1 {
-    background-image: url("../img/project-1h.jpg");
+.item-inside-1a {
+    background-image: url("../img/Personajes.jfif"), linear-gradient(#f1f1f1,#df6464);
+
   }
-}
+  .item-inside-1b {
+    background-image: url("../img/Y1.jfif");
+  }
+  .item-inside-1c {
+    background-image: url("../img/Get\ Minecraft.jfif");
+  }
+  .item-inside-1d {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1e {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1f {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1g {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1h {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1i {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1j {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1k {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1l {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1m {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1n {
+    background-image: url("../img/metaP.jfif");
+  }
+  .item-inside-1o {
+    background-image: url("../img/metaP.jfif");
+  }
 @media (min-width: 40em) {
   .item-inside-1 {
     background-size: 150%;
@@ -1576,7 +1618,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/drogasxdxd1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1585,7 +1627,7 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/jovenEnDrogas.jpg");
 }
 
 .post-3 {
@@ -1606,7 +1648,7 @@ body {
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/doctorChino.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-5 {
@@ -1615,7 +1657,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/How\ to\ Check\ Your\ Lymph\ Nodes\ for\ Signs\ of\ Swelling.jfif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-6 {
@@ -1624,7 +1666,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/Amapolas_\ Aprender\ a\ Sembrarlas\ NUNCA\ fue\ tan\ Fácil\ -\ 2024.jfif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-7 {
@@ -1646,7 +1688,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/drogasxdxd1.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
@@ -1655,7 +1697,7 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/jovenEnDrogas.jpg");
 }
 
 .post-3 {
@@ -1676,7 +1718,7 @@ body {
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/doctorChino.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
@@ -1685,7 +1727,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/How\ to\ Check\ Your\ Lymph\ Nodes\ for\ Signs\ of\ Swelling.jfif");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-6 {
@@ -1694,7 +1736,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/Amapolas_\ Aprender\ a\ Sembrarlas\ NUNCA\ fue\ tan\ Fácil\ -\ 2024.jfif");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-7 {
